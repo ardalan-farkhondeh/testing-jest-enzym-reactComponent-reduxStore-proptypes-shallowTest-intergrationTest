@@ -1,11 +1,9 @@
-# React Redux Testing Template using Jest and Enzyme
+# React-Redux using Jest - Enzyme
 
-The purpose of this project is to demonstrate how to properly implement a test first approch (TDD) to coding with react and redux.
+TDD approach+in integration test
 
-Within this project you will find examples of testing:
 
-* Connected and unconnected components
-* Component state and Redux state
-* Action creators and reducers
-* Complex action creators that use Redux Thunk and Axios
-* Action creators called from connected components
+1. testing on Connected and unconnected components
+2. testing state on component and redux store
+3. testing on Action creators and reducers
+4. testing Axios with moxios
