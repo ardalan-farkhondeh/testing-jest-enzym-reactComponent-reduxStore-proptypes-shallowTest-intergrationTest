@@ -1,6 +1,6 @@
 # React-Redux using Jest - Enzyme
 
-TDD approach+in integration test
+TDD approach+ an integration test
 
 
 1. testing on Connected and unconnected components
